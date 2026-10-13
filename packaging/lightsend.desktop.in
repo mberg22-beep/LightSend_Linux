@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=LightSend
+Comment=Send and receive photos over Wi-Fi with the LightSend phone app
+Exec=python3 -m lightsend
+Path=@DIR@
+Icon=lightsend
+Terminal=false
+Categories=Utility;Network;Graphics;
+StartupWMClass=lightsend
